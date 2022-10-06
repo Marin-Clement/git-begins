@@ -7,3 +7,6 @@ ou “git@github.com:Marin-Clement/git-begins.git” pour ssh
         git add “”
         git commit -m “”
         git push
+        
+-commandes pull
+        git pull
