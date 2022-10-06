@@ -1,4 +1,4 @@
-﻿- Cloner un repo:
+- Cloner un repo:
 git clone “https://github.com/Marin-Clement/git-begins.git” pour htmls
 ou “git@github.com:Marin-Clement/git-begins.git” pour ssh
 
@@ -10,3 +10,7 @@ ou “git@github.com:Marin-Clement/git-begins.git” pour ssh
         
 -commandes pull
         git pull
+
+-commandes branch
+	git checkout -b ""
+	git checkout ""
