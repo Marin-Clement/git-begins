@@ -1,0 +1,9 @@
+﻿- Cloner un repo:
+git clone “https://github.com/Marin-Clement/git-begins.git” pour htmls
+ou “git@github.com:Marin-Clement/git-begins.git” pour ssh
+
+
+- Les 3 commandes de push
+        git add “”
+        git commit -m “”
+        git push
