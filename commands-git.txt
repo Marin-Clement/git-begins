@@ -10,7 +10,3 @@ ou “git@github.com:Marin-Clement/git-begins.git” pour ssh
         
 -commandes pull
         git pull
-
--commandes branch
-	git checkout -b ""
-	git checkout ""
